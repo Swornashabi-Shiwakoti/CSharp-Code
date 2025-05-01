@@ -1,0 +1,14 @@
+C:\Users\ERC\source\repos\ReparingTheClockTower\ReparingTheClockTower\bin\Debug\net8.0\ReparingTheClockTower.exe
+C:\Users\ERC\source\repos\ReparingTheClockTower\ReparingTheClockTower\bin\Debug\net8.0\ReparingTheClockTower.deps.json
+C:\Users\ERC\source\repos\ReparingTheClockTower\ReparingTheClockTower\bin\Debug\net8.0\ReparingTheClockTower.runtimeconfig.json
+C:\Users\ERC\source\repos\ReparingTheClockTower\ReparingTheClockTower\bin\Debug\net8.0\ReparingTheClockTower.dll
+C:\Users\ERC\source\repos\ReparingTheClockTower\ReparingTheClockTower\bin\Debug\net8.0\ReparingTheClockTower.pdb
+C:\Users\ERC\source\repos\ReparingTheClockTower\ReparingTheClockTower\obj\Debug\net8.0\ReparingTheClockTower.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERC\source\repos\ReparingTheClockTower\ReparingTheClockTower\obj\Debug\net8.0\ReparingTheClockTower.AssemblyInfoInputs.cache
+C:\Users\ERC\source\repos\ReparingTheClockTower\ReparingTheClockTower\obj\Debug\net8.0\ReparingTheClockTower.AssemblyInfo.cs
+C:\Users\ERC\source\repos\ReparingTheClockTower\ReparingTheClockTower\obj\Debug\net8.0\ReparingTheClockTower.csproj.CoreCompileInputs.cache
+C:\Users\ERC\source\repos\ReparingTheClockTower\ReparingTheClockTower\obj\Debug\net8.0\ReparingTheClockTower.dll
+C:\Users\ERC\source\repos\ReparingTheClockTower\ReparingTheClockTower\obj\Debug\net8.0\refint\ReparingTheClockTower.dll
+C:\Users\ERC\source\repos\ReparingTheClockTower\ReparingTheClockTower\obj\Debug\net8.0\ReparingTheClockTower.pdb
+C:\Users\ERC\source\repos\ReparingTheClockTower\ReparingTheClockTower\obj\Debug\net8.0\ReparingTheClockTower.genruntimeconfig.cache
+C:\Users\ERC\source\repos\ReparingTheClockTower\ReparingTheClockTower\obj\Debug\net8.0\ref\ReparingTheClockTower.dll
