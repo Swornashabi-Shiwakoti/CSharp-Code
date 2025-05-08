@@ -1,0 +1,14 @@
+C:\Users\ERC\source\repos\SegmentsInString\SegmentsInString\bin\Debug\net8.0\SegmentsInString.exe
+C:\Users\ERC\source\repos\SegmentsInString\SegmentsInString\bin\Debug\net8.0\SegmentsInString.deps.json
+C:\Users\ERC\source\repos\SegmentsInString\SegmentsInString\bin\Debug\net8.0\SegmentsInString.runtimeconfig.json
+C:\Users\ERC\source\repos\SegmentsInString\SegmentsInString\bin\Debug\net8.0\SegmentsInString.dll
+C:\Users\ERC\source\repos\SegmentsInString\SegmentsInString\bin\Debug\net8.0\SegmentsInString.pdb
+C:\Users\ERC\source\repos\SegmentsInString\SegmentsInString\obj\Debug\net8.0\SegmentsInString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERC\source\repos\SegmentsInString\SegmentsInString\obj\Debug\net8.0\SegmentsInString.AssemblyInfoInputs.cache
+C:\Users\ERC\source\repos\SegmentsInString\SegmentsInString\obj\Debug\net8.0\SegmentsInString.AssemblyInfo.cs
+C:\Users\ERC\source\repos\SegmentsInString\SegmentsInString\obj\Debug\net8.0\SegmentsInString.csproj.CoreCompileInputs.cache
+C:\Users\ERC\source\repos\SegmentsInString\SegmentsInString\obj\Debug\net8.0\SegmentsInString.dll
+C:\Users\ERC\source\repos\SegmentsInString\SegmentsInString\obj\Debug\net8.0\refint\SegmentsInString.dll
+C:\Users\ERC\source\repos\SegmentsInString\SegmentsInString\obj\Debug\net8.0\SegmentsInString.pdb
+C:\Users\ERC\source\repos\SegmentsInString\SegmentsInString\obj\Debug\net8.0\SegmentsInString.genruntimeconfig.cache
+C:\Users\ERC\source\repos\SegmentsInString\SegmentsInString\obj\Debug\net8.0\ref\SegmentsInString.dll

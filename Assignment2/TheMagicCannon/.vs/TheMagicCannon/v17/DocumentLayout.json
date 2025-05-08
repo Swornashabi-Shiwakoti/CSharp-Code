@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ERC\\source\\repos\\TheMagicCannon\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFB01C23-C515-4B00-B9AB-691F53ABBB89}|TheMagicCannon\\TheMagicCannon.csproj|c:\\users\\erc\\source\\repos\\themagiccannon\\themagiccannon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFB01C23-C515-4B00-B9AB-691F53ABBB89}|TheMagicCannon\\TheMagicCannon.csproj|solutionrelative:themagiccannon\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ERC\\source\\repos\\TheMagicCannon\\TheMagicCannon\\Program.cs",
+              "RelativeDocumentMoniker": "TheMagicCannon\\Program.cs",
+              "ToolTip": "C:\\Users\\ERC\\source\\repos\\TheMagicCannon\\TheMagicCannon\\Program.cs",
+              "RelativeToolTip": "TheMagicCannon\\Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvwgAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-07T05:34:33.85Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

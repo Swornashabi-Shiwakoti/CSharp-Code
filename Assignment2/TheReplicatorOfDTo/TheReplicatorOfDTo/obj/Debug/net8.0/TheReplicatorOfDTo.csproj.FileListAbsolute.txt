@@ -1,0 +1,14 @@
+C:\Users\ERC\source\repos\TheReplicatorOfDTo\TheReplicatorOfDTo\bin\Debug\net8.0\TheReplicatorOfDTo.exe
+C:\Users\ERC\source\repos\TheReplicatorOfDTo\TheReplicatorOfDTo\bin\Debug\net8.0\TheReplicatorOfDTo.deps.json
+C:\Users\ERC\source\repos\TheReplicatorOfDTo\TheReplicatorOfDTo\bin\Debug\net8.0\TheReplicatorOfDTo.runtimeconfig.json
+C:\Users\ERC\source\repos\TheReplicatorOfDTo\TheReplicatorOfDTo\bin\Debug\net8.0\TheReplicatorOfDTo.dll
+C:\Users\ERC\source\repos\TheReplicatorOfDTo\TheReplicatorOfDTo\bin\Debug\net8.0\TheReplicatorOfDTo.pdb
+C:\Users\ERC\source\repos\TheReplicatorOfDTo\TheReplicatorOfDTo\obj\Debug\net8.0\TheReplicatorOfDTo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERC\source\repos\TheReplicatorOfDTo\TheReplicatorOfDTo\obj\Debug\net8.0\TheReplicatorOfDTo.AssemblyInfoInputs.cache
+C:\Users\ERC\source\repos\TheReplicatorOfDTo\TheReplicatorOfDTo\obj\Debug\net8.0\TheReplicatorOfDTo.AssemblyInfo.cs
+C:\Users\ERC\source\repos\TheReplicatorOfDTo\TheReplicatorOfDTo\obj\Debug\net8.0\TheReplicatorOfDTo.csproj.CoreCompileInputs.cache
+C:\Users\ERC\source\repos\TheReplicatorOfDTo\TheReplicatorOfDTo\obj\Debug\net8.0\TheReplicatorOfDTo.dll
+C:\Users\ERC\source\repos\TheReplicatorOfDTo\TheReplicatorOfDTo\obj\Debug\net8.0\refint\TheReplicatorOfDTo.dll
+C:\Users\ERC\source\repos\TheReplicatorOfDTo\TheReplicatorOfDTo\obj\Debug\net8.0\TheReplicatorOfDTo.pdb
+C:\Users\ERC\source\repos\TheReplicatorOfDTo\TheReplicatorOfDTo\obj\Debug\net8.0\TheReplicatorOfDTo.genruntimeconfig.cache
+C:\Users\ERC\source\repos\TheReplicatorOfDTo\TheReplicatorOfDTo\obj\Debug\net8.0\ref\TheReplicatorOfDTo.dll

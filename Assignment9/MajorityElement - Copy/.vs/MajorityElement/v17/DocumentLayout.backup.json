@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ERC\\source\\repos\\MajorityElement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{12F4C010-FEF1-49D3-8951-2D59B8242A28}|MajorityElement\\MajorityElement.csproj|c:\\users\\erc\\source\\repos\\majorityelement\\majorityelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F4C010-FEF1-49D3-8951-2D59B8242A28}|MajorityElement\\MajorityElement.csproj|solutionrelative:majorityelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{12F4C010-FEF1-49D3-8951-2D59B8242A28}|MajorityElement\\MajorityElement.csproj|c:\\users\\erc\\source\\repos\\majorityelement\\majorityelement\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{12F4C010-FEF1-49D3-8951-2D59B8242A28}|MajorityElement\\MajorityElement.csproj|solutionrelative:majorityelement\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\ERC\\source\\repos\\MajorityElement\\MajorityElement\\Calculator.cs",
+              "RelativeDocumentMoniker": "MajorityElement\\Calculator.cs",
+              "ToolTip": "C:\\Users\\ERC\\source\\repos\\MajorityElement\\MajorityElement\\Calculator.cs",
+              "RelativeToolTip": "MajorityElement\\Calculator.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAiwA8AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T05:24:25.29Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ERC\\source\\repos\\MajorityElement\\MajorityElement\\Program.cs",
+              "RelativeDocumentMoniker": "MajorityElement\\Program.cs",
+              "ToolTip": "C:\\Users\\ERC\\source\\repos\\MajorityElement\\MajorityElement\\Program.cs",
+              "RelativeToolTip": "MajorityElement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T05:24:02.224Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

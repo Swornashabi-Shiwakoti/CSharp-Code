@@ -1,0 +1,14 @@
+C:\Users\ERC\source\repos\BossBattleOfManticore\BossBattleOfManticore\bin\Debug\net8.0\BossBattleOfManticore.exe
+C:\Users\ERC\source\repos\BossBattleOfManticore\BossBattleOfManticore\bin\Debug\net8.0\BossBattleOfManticore.deps.json
+C:\Users\ERC\source\repos\BossBattleOfManticore\BossBattleOfManticore\bin\Debug\net8.0\BossBattleOfManticore.runtimeconfig.json
+C:\Users\ERC\source\repos\BossBattleOfManticore\BossBattleOfManticore\bin\Debug\net8.0\BossBattleOfManticore.dll
+C:\Users\ERC\source\repos\BossBattleOfManticore\BossBattleOfManticore\bin\Debug\net8.0\BossBattleOfManticore.pdb
+C:\Users\ERC\source\repos\BossBattleOfManticore\BossBattleOfManticore\obj\Debug\net8.0\BossBattleOfManticore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERC\source\repos\BossBattleOfManticore\BossBattleOfManticore\obj\Debug\net8.0\BossBattleOfManticore.AssemblyInfoInputs.cache
+C:\Users\ERC\source\repos\BossBattleOfManticore\BossBattleOfManticore\obj\Debug\net8.0\BossBattleOfManticore.AssemblyInfo.cs
+C:\Users\ERC\source\repos\BossBattleOfManticore\BossBattleOfManticore\obj\Debug\net8.0\BossBattleOfManticore.csproj.CoreCompileInputs.cache
+C:\Users\ERC\source\repos\BossBattleOfManticore\BossBattleOfManticore\obj\Debug\net8.0\BossBattleOfManticore.dll
+C:\Users\ERC\source\repos\BossBattleOfManticore\BossBattleOfManticore\obj\Debug\net8.0\refint\BossBattleOfManticore.dll
+C:\Users\ERC\source\repos\BossBattleOfManticore\BossBattleOfManticore\obj\Debug\net8.0\BossBattleOfManticore.pdb
+C:\Users\ERC\source\repos\BossBattleOfManticore\BossBattleOfManticore\obj\Debug\net8.0\BossBattleOfManticore.genruntimeconfig.cache
+C:\Users\ERC\source\repos\BossBattleOfManticore\BossBattleOfManticore\obj\Debug\net8.0\ref\BossBattleOfManticore.dll

@@ -1,0 +1,14 @@
+C:\Users\ERC\source\repos\UniqueCharacter\UniqueCharacter\bin\Debug\net8.0\UniqueCharacter.exe
+C:\Users\ERC\source\repos\UniqueCharacter\UniqueCharacter\bin\Debug\net8.0\UniqueCharacter.deps.json
+C:\Users\ERC\source\repos\UniqueCharacter\UniqueCharacter\bin\Debug\net8.0\UniqueCharacter.runtimeconfig.json
+C:\Users\ERC\source\repos\UniqueCharacter\UniqueCharacter\bin\Debug\net8.0\UniqueCharacter.dll
+C:\Users\ERC\source\repos\UniqueCharacter\UniqueCharacter\bin\Debug\net8.0\UniqueCharacter.pdb
+C:\Users\ERC\source\repos\UniqueCharacter\UniqueCharacter\obj\Debug\net8.0\UniqueCharacter.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERC\source\repos\UniqueCharacter\UniqueCharacter\obj\Debug\net8.0\UniqueCharacter.AssemblyInfoInputs.cache
+C:\Users\ERC\source\repos\UniqueCharacter\UniqueCharacter\obj\Debug\net8.0\UniqueCharacter.AssemblyInfo.cs
+C:\Users\ERC\source\repos\UniqueCharacter\UniqueCharacter\obj\Debug\net8.0\UniqueCharacter.csproj.CoreCompileInputs.cache
+C:\Users\ERC\source\repos\UniqueCharacter\UniqueCharacter\obj\Debug\net8.0\UniqueCharacter.dll
+C:\Users\ERC\source\repos\UniqueCharacter\UniqueCharacter\obj\Debug\net8.0\refint\UniqueCharacter.dll
+C:\Users\ERC\source\repos\UniqueCharacter\UniqueCharacter\obj\Debug\net8.0\UniqueCharacter.pdb
+C:\Users\ERC\source\repos\UniqueCharacter\UniqueCharacter\obj\Debug\net8.0\UniqueCharacter.genruntimeconfig.cache
+C:\Users\ERC\source\repos\UniqueCharacter\UniqueCharacter\obj\Debug\net8.0\ref\UniqueCharacter.dll

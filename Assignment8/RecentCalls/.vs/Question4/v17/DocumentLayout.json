@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ERC\\source\\repos\\Question4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0178AC86-0CE8-4064-8309-8845040082F7}|Question4\\Question4.csproj|c:\\users\\erc\\source\\repos\\question4\\question4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0178AC86-0CE8-4064-8309-8845040082F7}|Question4\\Question4.csproj|solutionrelative:question4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0178AC86-0CE8-4064-8309-8845040082F7}|Question4\\Question4.csproj|c:\\users\\erc\\source\\repos\\question4\\question4\\recentcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0178AC86-0CE8-4064-8309-8845040082F7}|Question4\\Question4.csproj|solutionrelative:question4\\recentcounter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecentCounter.cs",
+              "DocumentMoniker": "C:\\Users\\ERC\\source\\repos\\Question4\\Question4\\RecentCounter.cs",
+              "RelativeDocumentMoniker": "Question4\\RecentCounter.cs",
+              "ToolTip": "C:\\Users\\ERC\\source\\repos\\Question4\\Question4\\RecentCounter.cs",
+              "RelativeToolTip": "Question4\\RecentCounter.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswBsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T03:53:17.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ERC\\source\\repos\\Question4\\Question4\\Program.cs",
+              "RelativeDocumentMoniker": "Question4\\Program.cs",
+              "ToolTip": "C:\\Users\\ERC\\source\\repos\\Question4\\Question4\\Program.cs",
+              "RelativeToolTip": "Question4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T03:48:18.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

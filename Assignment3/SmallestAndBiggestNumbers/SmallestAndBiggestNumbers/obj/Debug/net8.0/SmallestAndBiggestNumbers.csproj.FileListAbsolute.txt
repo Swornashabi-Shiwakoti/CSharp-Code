@@ -1,0 +1,14 @@
+C:\Users\ERC\source\repos\SmallestAndBiggestNumbers\SmallestAndBiggestNumbers\bin\Debug\net8.0\SmallestAndBiggestNumbers.exe
+C:\Users\ERC\source\repos\SmallestAndBiggestNumbers\SmallestAndBiggestNumbers\bin\Debug\net8.0\SmallestAndBiggestNumbers.deps.json
+C:\Users\ERC\source\repos\SmallestAndBiggestNumbers\SmallestAndBiggestNumbers\bin\Debug\net8.0\SmallestAndBiggestNumbers.runtimeconfig.json
+C:\Users\ERC\source\repos\SmallestAndBiggestNumbers\SmallestAndBiggestNumbers\bin\Debug\net8.0\SmallestAndBiggestNumbers.dll
+C:\Users\ERC\source\repos\SmallestAndBiggestNumbers\SmallestAndBiggestNumbers\bin\Debug\net8.0\SmallestAndBiggestNumbers.pdb
+C:\Users\ERC\source\repos\SmallestAndBiggestNumbers\SmallestAndBiggestNumbers\obj\Debug\net8.0\SmallestAndBiggestNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERC\source\repos\SmallestAndBiggestNumbers\SmallestAndBiggestNumbers\obj\Debug\net8.0\SmallestAndBiggestNumbers.AssemblyInfoInputs.cache
+C:\Users\ERC\source\repos\SmallestAndBiggestNumbers\SmallestAndBiggestNumbers\obj\Debug\net8.0\SmallestAndBiggestNumbers.AssemblyInfo.cs
+C:\Users\ERC\source\repos\SmallestAndBiggestNumbers\SmallestAndBiggestNumbers\obj\Debug\net8.0\SmallestAndBiggestNumbers.csproj.CoreCompileInputs.cache
+C:\Users\ERC\source\repos\SmallestAndBiggestNumbers\SmallestAndBiggestNumbers\obj\Debug\net8.0\SmallestAndBiggestNumbers.dll
+C:\Users\ERC\source\repos\SmallestAndBiggestNumbers\SmallestAndBiggestNumbers\obj\Debug\net8.0\refint\SmallestAndBiggestNumbers.dll
+C:\Users\ERC\source\repos\SmallestAndBiggestNumbers\SmallestAndBiggestNumbers\obj\Debug\net8.0\SmallestAndBiggestNumbers.pdb
+C:\Users\ERC\source\repos\SmallestAndBiggestNumbers\SmallestAndBiggestNumbers\obj\Debug\net8.0\SmallestAndBiggestNumbers.genruntimeconfig.cache
+C:\Users\ERC\source\repos\SmallestAndBiggestNumbers\SmallestAndBiggestNumbers\obj\Debug\net8.0\ref\SmallestAndBiggestNumbers.dll

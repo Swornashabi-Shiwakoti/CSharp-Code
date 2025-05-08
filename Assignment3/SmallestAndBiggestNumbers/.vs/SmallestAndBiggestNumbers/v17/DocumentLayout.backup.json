@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ERC\\source\\repos\\SmallestAndBiggestNumbers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{949FEA7C-3C11-480C-8C17-FD5478D34840}|SmallestAndBiggestNumbers\\SmallestAndBiggestNumbers.csproj|c:\\users\\erc\\source\\repos\\smallestandbiggestnumbers\\smallestandbiggestnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949FEA7C-3C11-480C-8C17-FD5478D34840}|SmallestAndBiggestNumbers\\SmallestAndBiggestNumbers.csproj|solutionrelative:smallestandbiggestnumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{949FEA7C-3C11-480C-8C17-FD5478D34840}|SmallestAndBiggestNumbers\\SmallestAndBiggestNumbers.csproj|c:\\users\\erc\\source\\repos\\smallestandbiggestnumbers\\smallestandbiggestnumbers\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{949FEA7C-3C11-480C-8C17-FD5478D34840}|SmallestAndBiggestNumbers\\SmallestAndBiggestNumbers.csproj|solutionrelative:smallestandbiggestnumbers\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "calculator.cs",
+              "DocumentMoniker": "C:\\Users\\ERC\\source\\repos\\SmallestAndBiggestNumbers\\SmallestAndBiggestNumbers\\calculator.cs",
+              "RelativeDocumentMoniker": "SmallestAndBiggestNumbers\\calculator.cs",
+              "ToolTip": "C:\\Users\\ERC\\source\\repos\\SmallestAndBiggestNumbers\\SmallestAndBiggestNumbers\\calculator.cs",
+              "RelativeToolTip": "SmallestAndBiggestNumbers\\calculator.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAowDYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T17:42:47.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ERC\\source\\repos\\SmallestAndBiggestNumbers\\SmallestAndBiggestNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "SmallestAndBiggestNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\ERC\\source\\repos\\SmallestAndBiggestNumbers\\SmallestAndBiggestNumbers\\Program.cs",
+              "RelativeToolTip": "SmallestAndBiggestNumbers\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T17:25:31.66Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

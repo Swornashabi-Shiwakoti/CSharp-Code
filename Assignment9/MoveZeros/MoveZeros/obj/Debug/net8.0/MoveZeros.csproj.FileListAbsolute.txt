@@ -1,0 +1,14 @@
+C:\Users\ERC\source\repos\MoveZeros\MoveZeros\obj\Debug\net8.0\MoveZeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERC\source\repos\MoveZeros\MoveZeros\obj\Debug\net8.0\MoveZeros.AssemblyInfoInputs.cache
+C:\Users\ERC\source\repos\MoveZeros\MoveZeros\obj\Debug\net8.0\MoveZeros.AssemblyInfo.cs
+C:\Users\ERC\source\repos\MoveZeros\MoveZeros\obj\Debug\net8.0\MoveZeros.csproj.CoreCompileInputs.cache
+C:\Users\ERC\source\repos\MoveZeros\MoveZeros\bin\Debug\net8.0\MoveZeros.exe
+C:\Users\ERC\source\repos\MoveZeros\MoveZeros\bin\Debug\net8.0\MoveZeros.deps.json
+C:\Users\ERC\source\repos\MoveZeros\MoveZeros\bin\Debug\net8.0\MoveZeros.runtimeconfig.json
+C:\Users\ERC\source\repos\MoveZeros\MoveZeros\bin\Debug\net8.0\MoveZeros.dll
+C:\Users\ERC\source\repos\MoveZeros\MoveZeros\bin\Debug\net8.0\MoveZeros.pdb
+C:\Users\ERC\source\repos\MoveZeros\MoveZeros\obj\Debug\net8.0\MoveZeros.dll
+C:\Users\ERC\source\repos\MoveZeros\MoveZeros\obj\Debug\net8.0\refint\MoveZeros.dll
+C:\Users\ERC\source\repos\MoveZeros\MoveZeros\obj\Debug\net8.0\MoveZeros.pdb
+C:\Users\ERC\source\repos\MoveZeros\MoveZeros\obj\Debug\net8.0\MoveZeros.genruntimeconfig.cache
+C:\Users\ERC\source\repos\MoveZeros\MoveZeros\obj\Debug\net8.0\ref\MoveZeros.dll

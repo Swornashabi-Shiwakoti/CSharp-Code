@@ -1,0 +1,14 @@
+C:\Users\ERC\source\repos\CountD\CountD\bin\Debug\net8.0\CountD.exe
+C:\Users\ERC\source\repos\CountD\CountD\bin\Debug\net8.0\CountD.deps.json
+C:\Users\ERC\source\repos\CountD\CountD\bin\Debug\net8.0\CountD.runtimeconfig.json
+C:\Users\ERC\source\repos\CountD\CountD\bin\Debug\net8.0\CountD.dll
+C:\Users\ERC\source\repos\CountD\CountD\bin\Debug\net8.0\CountD.pdb
+C:\Users\ERC\source\repos\CountD\CountD\obj\Debug\net8.0\CountD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERC\source\repos\CountD\CountD\obj\Debug\net8.0\CountD.AssemblyInfoInputs.cache
+C:\Users\ERC\source\repos\CountD\CountD\obj\Debug\net8.0\CountD.AssemblyInfo.cs
+C:\Users\ERC\source\repos\CountD\CountD\obj\Debug\net8.0\CountD.csproj.CoreCompileInputs.cache
+C:\Users\ERC\source\repos\CountD\CountD\obj\Debug\net8.0\CountD.dll
+C:\Users\ERC\source\repos\CountD\CountD\obj\Debug\net8.0\refint\CountD.dll
+C:\Users\ERC\source\repos\CountD\CountD\obj\Debug\net8.0\CountD.pdb
+C:\Users\ERC\source\repos\CountD\CountD\obj\Debug\net8.0\CountD.genruntimeconfig.cache
+C:\Users\ERC\source\repos\CountD\CountD\obj\Debug\net8.0\ref\CountD.dll

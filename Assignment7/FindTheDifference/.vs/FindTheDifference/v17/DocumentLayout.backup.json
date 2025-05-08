@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ERC\\source\\repos\\FindTheDifference\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{480F3AC0-54AD-4077-8EC3-53EEC1B6FFB6}|FindTheDifference\\FindTheDifference.csproj|c:\\users\\erc\\source\\repos\\findthedifference\\findthedifference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480F3AC0-54AD-4077-8EC3-53EEC1B6FFB6}|FindTheDifference\\FindTheDifference.csproj|solutionrelative:findthedifference\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{480F3AC0-54AD-4077-8EC3-53EEC1B6FFB6}|FindTheDifference\\FindTheDifference.csproj|c:\\users\\erc\\source\\repos\\findthedifference\\findthedifference\\findextracharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{480F3AC0-54AD-4077-8EC3-53EEC1B6FFB6}|FindTheDifference\\FindTheDifference.csproj|solutionrelative:findthedifference\\findextracharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FindExtraCharacter.cs",
+              "DocumentMoniker": "C:\\Users\\ERC\\source\\repos\\FindTheDifference\\FindTheDifference\\FindExtraCharacter.cs",
+              "RelativeDocumentMoniker": "FindTheDifference\\FindExtraCharacter.cs",
+              "ToolTip": "C:\\Users\\ERC\\source\\repos\\FindTheDifference\\FindTheDifference\\FindExtraCharacter.cs",
+              "RelativeToolTip": "FindTheDifference\\FindExtraCharacter.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBkAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T02:41:02.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ERC\\source\\repos\\FindTheDifference\\FindTheDifference\\Program.cs",
+              "RelativeDocumentMoniker": "FindTheDifference\\Program.cs",
+              "ToolTip": "C:\\Users\\ERC\\source\\repos\\FindTheDifference\\FindTheDifference\\Program.cs",
+              "RelativeToolTip": "FindTheDifference\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-18T02:40:26.561Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ERC\\source\\repos\\HappyNumber\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A08D34-18DC-4B9B-B0FD-264FFDEFE1F9}|HappyNumber\\HappyNumber.csproj|c:\\users\\erc\\source\\repos\\happynumber\\happynumber\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A08D34-18DC-4B9B-B0FD-264FFDEFE1F9}|HappyNumber\\HappyNumber.csproj|solutionrelative:happynumber\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A08D34-18DC-4B9B-B0FD-264FFDEFE1F9}|HappyNumber\\HappyNumber.csproj|c:\\users\\erc\\source\\repos\\happynumber\\happynumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A08D34-18DC-4B9B-B0FD-264FFDEFE1F9}|HappyNumber\\HappyNumber.csproj|solutionrelative:happynumber\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ERC\\source\\repos\\HappyNumber\\HappyNumber\\Program.cs",
+              "RelativeDocumentMoniker": "HappyNumber\\Program.cs",
+              "ToolTip": "C:\\Users\\ERC\\source\\repos\\HappyNumber\\HappyNumber\\Program.cs",
+              "RelativeToolTip": "HappyNumber\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T06:39:35.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\ERC\\source\\repos\\HappyNumber\\HappyNumber\\Calculator.cs",
+              "RelativeDocumentMoniker": "HappyNumber\\Calculator.cs",
+              "ToolTip": "C:\\Users\\ERC\\source\\repos\\HappyNumber\\HappyNumber\\Calculator.cs",
+              "RelativeToolTip": "HappyNumber\\Calculator.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T06:33:23.847Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

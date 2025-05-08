@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ERC\\source\\repos\\Simula\u0027s Soups\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFCC454F-A563-4908-A351-FEAC5A0148F2}|Simula\u0027s Soups\\Simula\u0027s Soups.csproj|c:\\users\\erc\\source\\repos\\simula\u0027s soups\\simula\u0027s soups\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFCC454F-A563-4908-A351-FEAC5A0148F2}|Simula\u0027s Soups\\Simula\u0027s Soups.csproj|solutionrelative:simula\u0027s soups\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ERC\\source\\repos\\Simula\u0027s Soups\\Simula\u0027s Soups\\Program.cs",
+              "RelativeDocumentMoniker": "Simula\u0027s Soups\\Program.cs",
+              "ToolTip": "C:\\Users\\ERC\\source\\repos\\Simula\u0027s Soups\\Simula\u0027s Soups\\Program.cs",
+              "RelativeToolTip": "Simula\u0027s Soups\\Program.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-17T20:21:03.83Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

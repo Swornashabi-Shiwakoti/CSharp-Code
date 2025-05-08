@@ -1,0 +1,14 @@
+C:\Users\ERC\source\repos\ArrayValues\ArrayValues\bin\Debug\net8.0\ArrayValues.exe
+C:\Users\ERC\source\repos\ArrayValues\ArrayValues\bin\Debug\net8.0\ArrayValues.deps.json
+C:\Users\ERC\source\repos\ArrayValues\ArrayValues\bin\Debug\net8.0\ArrayValues.runtimeconfig.json
+C:\Users\ERC\source\repos\ArrayValues\ArrayValues\bin\Debug\net8.0\ArrayValues.dll
+C:\Users\ERC\source\repos\ArrayValues\ArrayValues\bin\Debug\net8.0\ArrayValues.pdb
+C:\Users\ERC\source\repos\ArrayValues\ArrayValues\obj\Debug\net8.0\ArrayValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERC\source\repos\ArrayValues\ArrayValues\obj\Debug\net8.0\ArrayValues.AssemblyInfoInputs.cache
+C:\Users\ERC\source\repos\ArrayValues\ArrayValues\obj\Debug\net8.0\ArrayValues.AssemblyInfo.cs
+C:\Users\ERC\source\repos\ArrayValues\ArrayValues\obj\Debug\net8.0\ArrayValues.csproj.CoreCompileInputs.cache
+C:\Users\ERC\source\repos\ArrayValues\ArrayValues\obj\Debug\net8.0\ArrayValues.dll
+C:\Users\ERC\source\repos\ArrayValues\ArrayValues\obj\Debug\net8.0\refint\ArrayValues.dll
+C:\Users\ERC\source\repos\ArrayValues\ArrayValues\obj\Debug\net8.0\ArrayValues.pdb
+C:\Users\ERC\source\repos\ArrayValues\ArrayValues\obj\Debug\net8.0\ArrayValues.genruntimeconfig.cache
+C:\Users\ERC\source\repos\ArrayValues\ArrayValues\obj\Debug\net8.0\ref\ArrayValues.dll

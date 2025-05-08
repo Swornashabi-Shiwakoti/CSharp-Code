@@ -1,0 +1,14 @@
+C:\Users\ERC\source\repos\FindTheDifference\FindTheDifference\bin\Debug\net8.0\FindTheDifference.exe
+C:\Users\ERC\source\repos\FindTheDifference\FindTheDifference\bin\Debug\net8.0\FindTheDifference.deps.json
+C:\Users\ERC\source\repos\FindTheDifference\FindTheDifference\bin\Debug\net8.0\FindTheDifference.runtimeconfig.json
+C:\Users\ERC\source\repos\FindTheDifference\FindTheDifference\bin\Debug\net8.0\FindTheDifference.dll
+C:\Users\ERC\source\repos\FindTheDifference\FindTheDifference\bin\Debug\net8.0\FindTheDifference.pdb
+C:\Users\ERC\source\repos\FindTheDifference\FindTheDifference\obj\Debug\net8.0\FindTheDifference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERC\source\repos\FindTheDifference\FindTheDifference\obj\Debug\net8.0\FindTheDifference.AssemblyInfoInputs.cache
+C:\Users\ERC\source\repos\FindTheDifference\FindTheDifference\obj\Debug\net8.0\FindTheDifference.AssemblyInfo.cs
+C:\Users\ERC\source\repos\FindTheDifference\FindTheDifference\obj\Debug\net8.0\FindTheDifference.csproj.CoreCompileInputs.cache
+C:\Users\ERC\source\repos\FindTheDifference\FindTheDifference\obj\Debug\net8.0\FindTheDifference.dll
+C:\Users\ERC\source\repos\FindTheDifference\FindTheDifference\obj\Debug\net8.0\refint\FindTheDifference.dll
+C:\Users\ERC\source\repos\FindTheDifference\FindTheDifference\obj\Debug\net8.0\FindTheDifference.pdb
+C:\Users\ERC\source\repos\FindTheDifference\FindTheDifference\obj\Debug\net8.0\FindTheDifference.genruntimeconfig.cache
+C:\Users\ERC\source\repos\FindTheDifference\FindTheDifference\obj\Debug\net8.0\ref\FindTheDifference.dll

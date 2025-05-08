@@ -1,0 +1,14 @@
+C:\Users\ERC\source\repos\Balloon\Balloon\bin\Debug\net8.0\Balloon.exe
+C:\Users\ERC\source\repos\Balloon\Balloon\bin\Debug\net8.0\Balloon.deps.json
+C:\Users\ERC\source\repos\Balloon\Balloon\bin\Debug\net8.0\Balloon.runtimeconfig.json
+C:\Users\ERC\source\repos\Balloon\Balloon\bin\Debug\net8.0\Balloon.dll
+C:\Users\ERC\source\repos\Balloon\Balloon\bin\Debug\net8.0\Balloon.pdb
+C:\Users\ERC\source\repos\Balloon\Balloon\obj\Debug\net8.0\Balloon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERC\source\repos\Balloon\Balloon\obj\Debug\net8.0\Balloon.AssemblyInfoInputs.cache
+C:\Users\ERC\source\repos\Balloon\Balloon\obj\Debug\net8.0\Balloon.AssemblyInfo.cs
+C:\Users\ERC\source\repos\Balloon\Balloon\obj\Debug\net8.0\Balloon.csproj.CoreCompileInputs.cache
+C:\Users\ERC\source\repos\Balloon\Balloon\obj\Debug\net8.0\Balloon.dll
+C:\Users\ERC\source\repos\Balloon\Balloon\obj\Debug\net8.0\refint\Balloon.dll
+C:\Users\ERC\source\repos\Balloon\Balloon\obj\Debug\net8.0\Balloon.pdb
+C:\Users\ERC\source\repos\Balloon\Balloon\obj\Debug\net8.0\Balloon.genruntimeconfig.cache
+C:\Users\ERC\source\repos\Balloon\Balloon\obj\Debug\net8.0\ref\Balloon.dll

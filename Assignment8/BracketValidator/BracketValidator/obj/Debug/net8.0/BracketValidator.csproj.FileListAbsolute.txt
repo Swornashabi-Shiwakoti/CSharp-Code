@@ -1,0 +1,14 @@
+C:\Users\ERC\source\repos\BracketValidator\BracketValidator\bin\Debug\net8.0\BracketValidator.exe
+C:\Users\ERC\source\repos\BracketValidator\BracketValidator\bin\Debug\net8.0\BracketValidator.deps.json
+C:\Users\ERC\source\repos\BracketValidator\BracketValidator\bin\Debug\net8.0\BracketValidator.runtimeconfig.json
+C:\Users\ERC\source\repos\BracketValidator\BracketValidator\bin\Debug\net8.0\BracketValidator.dll
+C:\Users\ERC\source\repos\BracketValidator\BracketValidator\bin\Debug\net8.0\BracketValidator.pdb
+C:\Users\ERC\source\repos\BracketValidator\BracketValidator\obj\Debug\net8.0\BracketValidator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ERC\source\repos\BracketValidator\BracketValidator\obj\Debug\net8.0\BracketValidator.AssemblyInfoInputs.cache
+C:\Users\ERC\source\repos\BracketValidator\BracketValidator\obj\Debug\net8.0\BracketValidator.AssemblyInfo.cs
+C:\Users\ERC\source\repos\BracketValidator\BracketValidator\obj\Debug\net8.0\BracketValidator.csproj.CoreCompileInputs.cache
+C:\Users\ERC\source\repos\BracketValidator\BracketValidator\obj\Debug\net8.0\BracketValidator.dll
+C:\Users\ERC\source\repos\BracketValidator\BracketValidator\obj\Debug\net8.0\refint\BracketValidator.dll
+C:\Users\ERC\source\repos\BracketValidator\BracketValidator\obj\Debug\net8.0\BracketValidator.pdb
+C:\Users\ERC\source\repos\BracketValidator\BracketValidator\obj\Debug\net8.0\BracketValidator.genruntimeconfig.cache
+C:\Users\ERC\source\repos\BracketValidator\BracketValidator\obj\Debug\net8.0\ref\BracketValidator.dll

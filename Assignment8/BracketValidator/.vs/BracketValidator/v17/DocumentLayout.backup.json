@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ERC\\source\\repos\\BracketValidator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{004A762E-7CE8-4C89-AFC0-257E2C226A91}|BracketValidator\\BracketValidator.csproj|c:\\users\\erc\\source\\repos\\bracketvalidator\\bracketvalidator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004A762E-7CE8-4C89-AFC0-257E2C226A91}|BracketValidator\\BracketValidator.csproj|solutionrelative:bracketvalidator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004A762E-7CE8-4C89-AFC0-257E2C226A91}|BracketValidator\\BracketValidator.csproj|c:\\users\\erc\\source\\repos\\bracketvalidator\\bracketvalidator\\bracketvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004A762E-7CE8-4C89-AFC0-257E2C226A91}|BracketValidator\\BracketValidator.csproj|solutionrelative:bracketvalidator\\bracketvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BracketValidator.cs",
+              "DocumentMoniker": "C:\\Users\\ERC\\source\\repos\\BracketValidator\\BracketValidator\\BracketValidator.cs",
+              "RelativeDocumentMoniker": "BracketValidator\\BracketValidator.cs",
+              "ToolTip": "C:\\Users\\ERC\\source\\repos\\BracketValidator\\BracketValidator\\BracketValidator.cs",
+              "RelativeToolTip": "BracketValidator\\BracketValidator.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T03:21:45.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ERC\\source\\repos\\BracketValidator\\BracketValidator\\Program.cs",
+              "RelativeDocumentMoniker": "BracketValidator\\Program.cs",
+              "ToolTip": "C:\\Users\\ERC\\source\\repos\\BracketValidator\\BracketValidator\\Program.cs",
+              "RelativeToolTip": "BracketValidator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T03:17:53.552Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

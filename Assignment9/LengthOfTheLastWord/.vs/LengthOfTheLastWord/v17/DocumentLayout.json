@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ERC\\source\\repos\\LengthOfTheLastWord\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7ADD82E9-6C7F-40F8-BA5A-864403A152C6}|LengthOfTheLastWord\\LengthOfTheLastWord.csproj|c:\\users\\erc\\source\\repos\\lengthofthelastword\\lengthofthelastword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ADD82E9-6C7F-40F8-BA5A-864403A152C6}|LengthOfTheLastWord\\LengthOfTheLastWord.csproj|solutionrelative:lengthofthelastword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7ADD82E9-6C7F-40F8-BA5A-864403A152C6}|LengthOfTheLastWord\\LengthOfTheLastWord.csproj|c:\\users\\erc\\source\\repos\\lengthofthelastword\\lengthofthelastword\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7ADD82E9-6C7F-40F8-BA5A-864403A152C6}|LengthOfTheLastWord\\LengthOfTheLastWord.csproj|solutionrelative:lengthofthelastword\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\ERC\\source\\repos\\LengthOfTheLastWord\\LengthOfTheLastWord\\Calculator.cs",
+              "RelativeDocumentMoniker": "LengthOfTheLastWord\\Calculator.cs",
+              "ToolTip": "C:\\Users\\ERC\\source\\repos\\LengthOfTheLastWord\\LengthOfTheLastWord\\Calculator.cs",
+              "RelativeToolTip": "LengthOfTheLastWord\\Calculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T05:01:42.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ERC\\source\\repos\\LengthOfTheLastWord\\LengthOfTheLastWord\\Program.cs",
+              "RelativeDocumentMoniker": "LengthOfTheLastWord\\Program.cs",
+              "ToolTip": "C:\\Users\\ERC\\source\\repos\\LengthOfTheLastWord\\LengthOfTheLastWord\\Program.cs",
+              "RelativeToolTip": "LengthOfTheLastWord\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAAAAwAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-26T05:01:18.021Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
